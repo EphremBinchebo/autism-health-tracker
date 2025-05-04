@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/autism-tracker/static/css/main.f855e6bc.css",
+    "main.js": "/autism-tracker/static/js/main.67b11b6b.js",
+    "static/js/453.8ab44547.chunk.js": "/autism-tracker/static/js/453.8ab44547.chunk.js",
+    "static/media/logo.svg": "/autism-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/autism-tracker/index.html",
+    "main.f855e6bc.css.map": "/autism-tracker/static/css/main.f855e6bc.css.map",
+    "main.67b11b6b.js.map": "/autism-tracker/static/js/main.67b11b6b.js.map",
+    "453.8ab44547.chunk.js.map": "/autism-tracker/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.67b11b6b.js"
+  ]
+}
